@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "reloopmongo": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://faikar13:yulita277@localhost:27017/toko",
+    "database": "toko",
+    "password": "yulita277",
+    "name": "reloopmongo",
+    "user": "faikar13",
+    "connector": "mongodb"
+  }
+}
